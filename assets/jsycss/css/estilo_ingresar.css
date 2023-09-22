@@ -1,0 +1,36 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(215, 215, 215);
+}
+form{
+    max-width: 350px;
+    min-width: 300px;
+    height: 90%;
+    padding: 15px 35px 45px;
+    margin:0 auto ;
+    background-color: white; 
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 2px;
+    font-size: 20px;
+}
+.box{
+    margin-top: 7%;
+    margin-bottom:0;
+}
+h1{
+    margin: auto auto;
+    color: #007acc;
+}
+label{
+    margin: 0.75rem 0 0.25rem 0;
+    border-bottom: solid rgb(0, 122, 204);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    width: 100%;
+    font-size: 25px;
+}
